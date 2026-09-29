@@ -220,3 +220,4 @@ __marimo__/
 # Watchdog project
 .venv/
 data/raw/
+models/*.task
